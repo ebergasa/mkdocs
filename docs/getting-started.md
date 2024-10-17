@@ -6,7 +6,7 @@ An introductory tutorial!
 
 ## Installation
 
-To install MkDocs, run the following command from the command line:
+Eshaskdjfhaksjdfhakjshdfj
 
 ```bash
 pip install mkdocs
